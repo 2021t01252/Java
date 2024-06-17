@@ -7,7 +7,9 @@ public class Sorting_string {
 	public static void main(String[] args) {
 		
 		
-		char s[] = {'D','C','B','A'};
+		//char s[] = {'D','C','B','A'};
+		
+		String s[]= {"scott","marry","john","david"};
 		
 		System.out.println("Before sorting......."+Arrays.toString(s));
 		
